@@ -20,7 +20,6 @@ namespace Tyuiu.DanilovAS.Sprint4.Task0.V16.Lib
                 {
                     count *= array[i];
                 }
-
             }
             return count;
         }

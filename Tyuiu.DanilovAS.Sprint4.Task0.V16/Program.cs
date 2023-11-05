@@ -30,7 +30,6 @@ namespace Tyuiu.DanilovAS.Sprint4.Task0.V16
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
-
             int[] array = new int[] { 2, 6, 2, 3, 4, 5, 4, 9, 7, 8 };
 
             for (int i = 0; i <array.Length; i++)

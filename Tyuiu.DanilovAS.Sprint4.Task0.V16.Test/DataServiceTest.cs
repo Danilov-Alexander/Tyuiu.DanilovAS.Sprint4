@@ -16,6 +16,7 @@ namespace Tyuiu.DanilovAS.Sprint4.Task0.V16.Test
             int wait = 30;
             int res = ds.GetMultEvenArrEl(arrayTest);
             Assert.AreEqual(wait,res);
+
         }
     }
 }
